@@ -16,13 +16,13 @@ def hello():
         <h1>This is an API for the GID Task!</h1>
         <h2> SERVICES AVAIABLE: SMS, TELEGRAM</h3>
         <h3> SMS Parameters</h3>
-        <p>EP_ID as an integer</p>
+        <p>ep_id as an integer</p>
         <p>channel as an string = 'sms'</p>
         <p>whoto as integer (format: COUNTRY_CODE + AREA_CODE + NUMBER)</p>
         <h3> Telegram Parameters</h3>
-        <p>EP_ID as an integer</p>
+        <p>ep_id as an integer</p>
         <p>channel as an string = 'telegram'</p>
-        <a h_ref="https://t.me/joinchat/CRY3LRQb7CHE3h1ZrYo-Xw" target="blank_">Group Link for receiving notifications from telegram</a>
+        <a href="https://t.me/joinchat/CRY3LRQb7CHE3h1ZrYo-Xw" target="blank_">Group Link for receiving notifications from telegram</a>
         <p>https://t.me/joinchat/CRY3LRQb7CHE3h1ZrYo-Xw</p>
     </html>
 
